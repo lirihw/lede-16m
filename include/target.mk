@@ -49,7 +49,6 @@ DEFAULT_PACKAGES.router:=\
 	luci-newapi block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw \
 	default-settings luci  luci-app-upnp luci-app-autoreboot \
 	luci-app-arpbind \
-	luci-app-ramfree \
 	luci-app-nlbwmon 
 
 ifneq ($(DUMP),)
