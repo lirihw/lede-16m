@@ -1,12 +1,12 @@
 name: Jarvis-OpenWrt-CI
 
     on:
-      push:
-        branches: 
+      #push:
+      #  branches: 
           # master为你需要编译的当前固件的分支
-          - master
-      schedule:
-        - cron: 0 20 * * *
+      #    - master
+      #schedule:
+      #  - cron: 0 20 * * *
        release:
          types: [published]
 
