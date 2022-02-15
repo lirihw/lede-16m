@@ -46,7 +46,7 @@ DEFAULT_PACKAGES.router:=\
 	iptables \
 	ppp \
 	ppp-mod-pppoe \
-	luci-newapi block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw \
+	block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw \
 	default-settings luci   luci-app-autoreboot \
 	luci-app-ssr-plus  luci-app-arpbind \
 	luci-app-ramfree 
